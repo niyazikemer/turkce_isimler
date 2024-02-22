@@ -1,6 +1,6 @@
 # Turkish Name List
 
-This list created for using in some ml learning projects. The list contains 14111 Turkish names 
+This list created for using in some ml learning projects. The list contains 14111 Turkish names, for corrections please create an issue. 
 
 ## Project Updates
 
