@@ -4,6 +4,11 @@ This list created for using in some ml learning projects. The list contains 1411
 
 ## Project Updates
 
+### Changes Made V4,V5,V6
+- Removed some non-Turkish characters: 'â', 'î', 'û'
+
+'â': 'a', 'î': 'i','û':'ü'
+
 ### Changes Made V3
 
 - Combine dot above characters removed.
