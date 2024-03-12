@@ -4,7 +4,11 @@ This list created for using in some ml learning projects. The list contains 1411
 
 ## Project Updates
 
-### Changes Made
+### Changes Made V3
+
+- Combine dot above characters removed.
+
+### Changes Made V1, V2
 
 - Removed missing lines in the file.
 
